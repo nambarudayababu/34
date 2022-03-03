@@ -1,0 +1,5 @@
+n1=('a','b','c')      
+n2=('d','e','f')
+a=len(n1)
+b=len(n2)
+print(n1+n2)
